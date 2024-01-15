@@ -1,4 +1,4 @@
-# FPV-Wing
+# AR-Wing-Pro-Ardupilot-FPV-Project
 ## Current Hardware
 - Airframe:             SonicModell AR Wing Pro (White "Falcon" PNP Edition)
   - Motor:                included SonicModell 2216-1400KV
