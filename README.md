@@ -1,9 +1,9 @@
 # FPV-Wing
 ## Current Hardware
 - Airframe:             SonicModell AR Wing Pro (White "Falcon" PNP Edition)
-- Motor:                - included SonicModell 2216-1400KV
-- ESC:                  - included SonicModell 40A w/5V 3A BEC with XT60
-- Servos (x2):          - included 2pcs 9g metal gear servo
+  - Motor:                included SonicModell 2216-1400KV
+  - ESC:                  included SonicModell 40A w/5V 3A BEC with XT60
+  - Servos (x2):          included 2pcs 9g metal gear servo
 - Propeller:            Aeronaut Cam Carbon 8 x 5 folding with Mayatech 5mm hub (ebay)
 - Receiver:             TBS nano pro with immortal antenna
 - Transmitter:          Radiomaster TX16s mkII Max (JB Edition) with TBS Crossfire Micro TX v2 module
