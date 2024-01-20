@@ -16,3 +16,4 @@ This is a work in progress - I will leave this warning in place until ive flown 
 - Flight Pack:          ZOHD LIONPACK 7000mAh 4S Li-ion Battery (XT60)
 - FPV VTX:              Walksnail Avatar HD Pro Micro Kit (Dual Antenna) (32GB)
 - FPV VRX / Goggles:    Walksnail Avatar HD Googles X
+- Onboard Action Camera GoPro Hero 8 (with 3D Printed Mount)
