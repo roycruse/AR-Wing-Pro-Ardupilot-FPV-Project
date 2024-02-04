@@ -1,6 +1,7 @@
 # AR-Wing-Pro-Ardupilot-FPV-Project
 ## !!! WARNING !!!
-This is a work in progress - I will leave this warning in place until ive flown the wing and am happy everything is working.
+This is a work in progress - Maiden Flight completed in skethchy low vis conditions. Auto trim made adjustments and auto launch and return to launch had basic tests but nothing else was tested or adjusted.  Not even autotune.
+Compass is currently disabled due to out of raneg errors all the time - will re-visit in the future.
 ## Current Hardware
 - Airframe:             SonicModell AR Wing Pro (White "Falcon" PNP Edition)
   - Motor:                included SonicModell 2216-1400KV
