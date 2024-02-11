@@ -9,8 +9,11 @@ Compass is currently disabled due to out of raneg errors all the time - will re-
   - Servos (x2):          included 2pcs 9g metal gear servo
 - Propeller:            Aeronaut Cam Carbon 8 x 5 folding with Mayatech 5mm hub (ebay)
 - Receiver:             TBS nano pro with immortal antenna
-- Transmitter:          Radiomaster TX16s mkII Max (JB Edition) with TBS Crossfire Micro TX v2 module
+- Transmitter:          Radiomaster TX16S mkII Max (JB Edition) with TBS Crossfire Micro TX v2 module
+  - TX16S running firmware 2.9.2
+  - Croddfire4 Module running firmw3are 6.31
 - Flight Controller:    Matek H743 Slim v3
+  - running firmware ardupilot 4.4.4
 - GPS / Compass:        Matek M10Q-5883
 - Airspeed Sensor:      Matek Digital ASPD-4525
 - Battery Monitor:      Matek Hall Current Sensor 150A
