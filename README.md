@@ -11,7 +11,7 @@ Compass is currently disabled due to out of raneg errors all the time - will re-
 - Receiver:             TBS nano pro with immortal antenna
 - Transmitter:          Radiomaster TX16S mkII Max (JB Edition) with TBS Crossfire Micro TX v2 module
   - TX16S running Edge TX 2.9.2
-  - Croddfire4 Module running firmware 6.31
+  - Crossfire Module running firmware 6.31
 - Flight Controller:    Matek H743 Slim v3
   - running firmware ardupilot 4.4.4
 - GPS / Compass:        Matek M10Q-5883
