@@ -16,6 +16,7 @@ Compass is currently disabled due to out of raneg errors all the time - will re-
   - running firmware ardupilot 4.4.4
 - GPS / Compass:        Matek M10Q-5883
 - Airspeed Sensor:      Matek Digital ASPD-4525
+- Buzzer:               Matek
 - Battery Monitor:      Matek Hall Current Sensor 150A
 - Flight Pack:          ZOHD LIONPACK 7000mAh 4S Li-ion Battery (XT60)
 - FPV VTX:              Walksnail Avatar HD Pro Micro Kit (Dual Antenna) (32GB)
