@@ -1,6 +1,6 @@
 # AR-Wing-Pro-Ardupilot-FPV-Project
 Auto Launch now tested a few times and autotune has now been run to set PIDs.
-Compass is currently disabled due to out of raneg errors all the time - will re-visit in the future.
+Compass is currently disabled due to out of range errors all the time - will re-visit in the future.
 Im getting what i beleive to be, early, low battery warnings so need to explore if amp draw compensated battery voltages can be used to trigger this or not as im only getting 30 minute flight times before RTL is triggered.  But oither than this - very happy with flight characteristics and performance.
 ## Current Hardware
 - Airframe:             SonicModell AR Wing Pro (White "Falcon" PNP Edition)
