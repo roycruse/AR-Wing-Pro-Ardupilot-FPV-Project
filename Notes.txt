@@ -1,1 +1,1 @@
-Remember to change ARSPD_AUTOCAL back to zero (disabled) after first flights
+DONE: Remember to change ARSPD_AUTOCAL back to zero (disabled) after first flights
